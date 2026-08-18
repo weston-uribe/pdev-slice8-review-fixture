@@ -1,1 +1,1 @@
-export const SHARED_LABEL = "alpha";
+export const SHARED_LABEL = "beta";
