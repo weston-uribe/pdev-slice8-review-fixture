@@ -1,7 +1,7 @@
 import { applyPercentOff } from "./pricing.ts";
 
-export function childAMarker(): never {
-  throw new Error("not implemented");
+export function childAMarker(): string {
+  return "child-a";
 }
 
 export function discountedPrice(cents: number): number {
