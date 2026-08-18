@@ -1,0 +1,8 @@
+{
+  "name": "pdev-slice8-review-fixture",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
