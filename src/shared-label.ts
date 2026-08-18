@@ -1,1 +1,1 @@
-export const SHARED_LABEL = "unset";
+export const SHARED_LABEL = "beta";

@@ -1,3 +1,3 @@
-export function childBMarker(): never {
-  throw new Error("not implemented");
+export function childBMarker(): string {
+  return "child-b";
 }
